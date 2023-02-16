@@ -1,0 +1,33 @@
+.navbar a {
+    display: inline-block;
+    margin: 0px 1rem;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar {
+    display: inline-block;
+    border-bottom: 1px #828282 solid;
+    text-align: center;
+    left: 300px;
+    right: 300px;
+    position: absolute;
+}
+
+
+@media (max-width: 718px) {
+
+.navbar {
+    padding: 0px;
+    border-bottom: none;
+    visibility: hidden;
+}
+
+
+.navbar a {
+    color: black;
+    display: inline;
+    margin: 0px;
+}
+
+}

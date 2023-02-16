@@ -1,0 +1,20 @@
+{
+    "link1": "Home",
+    "link2": "About me",
+    "link3": "Skills",
+    "link4": "Portfolio",
+    "link5": "Contacts",
+    "name": "Denis Novik",
+    "txt": "UX | UI designer 24 years old, Minsk",
+    "title1": "About me",
+    "txt1": "Hi, I'm Denis – UX/UI designer from Minsk. I'm interested in design and everything connected with it.",
+    "txt2": "I'm studying at courses Web and mobile design interfaces in IT-Academy.",
+    "txt3": "Ready to implement excellent projects with wonderful people.",
+    "skills": "Skills",
+    "programms": "I work in such programs as",
+    "portfolio": "Portfolio",
+    "contacts": "Contacts",
+    "txt4": "Want to know more or just chat? You are welcome!",
+    "message": "send message",
+    "adds": " Like me on LinkedIn, Instagram, Behance, Dribble"
+}

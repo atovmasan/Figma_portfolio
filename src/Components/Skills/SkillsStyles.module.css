@@ -1,0 +1,26 @@
+.content {
+    text-align: center;
+    padding: 25px;
+}
+
+.content div {
+ display: inline-block;
+ width: 25%;
+}
+
+.img {
+    width: 35%;
+}
+
+
+@media (max-width: 718px) {
+    .content div {
+        display: block;
+        width: 25%;
+        padding: 0% 37%;
+       }
+       .img {
+        height: 20%;
+        width: 20%;
+       }
+}

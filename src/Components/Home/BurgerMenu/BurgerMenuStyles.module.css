@@ -1,0 +1,32 @@
+.menu {
+    position: fixed;
+    padding: 10px;
+    color: gray;
+    margin-bottom: 10000px;
+}
+
+.menu h3 {
+    width: 85px;
+}
+
+.menu h3:hover {
+    color: black;
+}
+
+.menu_rotated{
+    color: gray;
+    display: inline-block;
+    transform: rotate(90deg);
+    font-size: large;
+    position: absolute;
+    right: -65px;
+    bottom: -50px;
+}
+
+.exit {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    right: 0px;
+    top: 15px;
+} 

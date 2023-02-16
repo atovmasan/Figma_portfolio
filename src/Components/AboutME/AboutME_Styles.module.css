@@ -1,0 +1,13 @@
+.content {
+    background-color: #F6F6F6;
+    padding: 100px 400px;
+    text-align: center;
+}
+
+@media (max-width: 718px) {
+    .content {
+      background-color: #F6F6F6;
+      padding: 75px 100px;
+      text-align: center;
+  }
+}
